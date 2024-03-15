@@ -1,0 +1,14 @@
+C:\Users\grzes\source\repos\KnappSnack\KnappSnack\obj\Debug\net8.0\KnappSnack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grzes\source\repos\KnappSnack\KnappSnack\obj\Debug\net8.0\KnappSnack.AssemblyInfoInputs.cache
+C:\Users\grzes\source\repos\KnappSnack\KnappSnack\obj\Debug\net8.0\KnappSnack.AssemblyInfo.cs
+C:\Users\grzes\source\repos\KnappSnack\KnappSnack\obj\Debug\net8.0\KnappSnack.csproj.CoreCompileInputs.cache
+C:\Users\grzes\source\repos\KnappSnack\KnappSnack\bin\Debug\net8.0\KnappSnack.exe
+C:\Users\grzes\source\repos\KnappSnack\KnappSnack\bin\Debug\net8.0\KnappSnack.deps.json
+C:\Users\grzes\source\repos\KnappSnack\KnappSnack\bin\Debug\net8.0\KnappSnack.runtimeconfig.json
+C:\Users\grzes\source\repos\KnappSnack\KnappSnack\bin\Debug\net8.0\KnappSnack.dll
+C:\Users\grzes\source\repos\KnappSnack\KnappSnack\bin\Debug\net8.0\KnappSnack.pdb
+C:\Users\grzes\source\repos\KnappSnack\KnappSnack\obj\Debug\net8.0\KnappSnack.dll
+C:\Users\grzes\source\repos\KnappSnack\KnappSnack\obj\Debug\net8.0\refint\KnappSnack.dll
+C:\Users\grzes\source\repos\KnappSnack\KnappSnack\obj\Debug\net8.0\KnappSnack.pdb
+C:\Users\grzes\source\repos\KnappSnack\KnappSnack\obj\Debug\net8.0\KnappSnack.genruntimeconfig.cache
+C:\Users\grzes\source\repos\KnappSnack\KnappSnack\obj\Debug\net8.0\ref\KnappSnack.dll
