@@ -1,0 +1,16 @@
+C:\Users\grzes\source\repos\Laby2API\Laby2API\bin\Debug\net8.0-windows\Laby2API.exe
+C:\Users\grzes\source\repos\Laby2API\Laby2API\bin\Debug\net8.0-windows\Laby2API.deps.json
+C:\Users\grzes\source\repos\Laby2API\Laby2API\bin\Debug\net8.0-windows\Laby2API.runtimeconfig.json
+C:\Users\grzes\source\repos\Laby2API\Laby2API\bin\Debug\net8.0-windows\Laby2API.dll
+C:\Users\grzes\source\repos\Laby2API\Laby2API\bin\Debug\net8.0-windows\Laby2API.pdb
+C:\Users\grzes\source\repos\Laby2API\Laby2API\obj\Debug\net8.0-windows\Laby2API.FormStudent.resources
+C:\Users\grzes\source\repos\Laby2API\Laby2API\obj\Debug\net8.0-windows\Laby2API.csproj.GenerateResource.cache
+C:\Users\grzes\source\repos\Laby2API\Laby2API\obj\Debug\net8.0-windows\Laby2API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grzes\source\repos\Laby2API\Laby2API\obj\Debug\net8.0-windows\Laby2API.AssemblyInfoInputs.cache
+C:\Users\grzes\source\repos\Laby2API\Laby2API\obj\Debug\net8.0-windows\Laby2API.AssemblyInfo.cs
+C:\Users\grzes\source\repos\Laby2API\Laby2API\obj\Debug\net8.0-windows\Laby2API.csproj.CoreCompileInputs.cache
+C:\Users\grzes\source\repos\Laby2API\Laby2API\obj\Debug\net8.0-windows\Laby2API.dll
+C:\Users\grzes\source\repos\Laby2API\Laby2API\obj\Debug\net8.0-windows\refint\Laby2API.dll
+C:\Users\grzes\source\repos\Laby2API\Laby2API\obj\Debug\net8.0-windows\Laby2API.pdb
+C:\Users\grzes\source\repos\Laby2API\Laby2API\obj\Debug\net8.0-windows\Laby2API.genruntimeconfig.cache
+C:\Users\grzes\source\repos\Laby2API\Laby2API\obj\Debug\net8.0-windows\ref\Laby2API.dll
