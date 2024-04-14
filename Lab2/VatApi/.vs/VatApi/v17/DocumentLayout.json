@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grzes\\source\\repos\\VatApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55E8BF53-E5AF-46F2-9050-493563738AC1}|VatApi\\VatApi.csproj|C:\\Users\\grzes\\source\\repos\\VatApi\\vatapi\\vatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E8BF53-E5AF-46F2-9050-493563738AC1}|VatApi\\VatApi.csproj|solutionrelative:vatapi\\vatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E8BF53-E5AF-46F2-9050-493563738AC1}|VatApi\\VatApi.csproj|C:\\Users\\grzes\\source\\repos\\VatApi\\vatapi\\viesapproximate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E8BF53-E5AF-46F2-9050-493563738AC1}|VatApi\\VatApi.csproj|solutionrelative:vatapi\\viesapproximate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E8BF53-E5AF-46F2-9050-493563738AC1}|VatApi\\VatApi.csproj|C:\\Users\\grzes\\source\\repos\\VatApi\\vatapi\\vat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E8BF53-E5AF-46F2-9050-493563738AC1}|VatApi\\VatApi.csproj|solutionrelative:vatapi\\vat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E8BF53-E5AF-46F2-9050-493563738AC1}|VatApi\\VatApi.csproj|C:\\Users\\grzes\\source\\repos\\VatApi\\vatapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E8BF53-E5AF-46F2-9050-493563738AC1}|VatApi\\VatApi.csproj|solutionrelative:vatapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E8BF53-E5AF-46F2-9050-493563738AC1}|VatApi\\VatApi.csproj|C:\\Users\\grzes\\source\\repos\\VatApi\\vatapi\\apivatfetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E8BF53-E5AF-46F2-9050-493563738AC1}|VatApi\\VatApi.csproj|solutionrelative:vatapi\\apivatfetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E8BF53-E5AF-46F2-9050-493563738AC1}|VatApi\\VatApi.csproj|C:\\Users\\grzes\\source\\repos\\VatApi\\vatapi\\viesapproximatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E8BF53-E5AF-46F2-9050-493563738AC1}|VatApi\\VatApi.csproj|solutionrelative:vatapi\\viesapproximatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E8BF53-E5AF-46F2-9050-493563738AC1}|VatApi\\VatApi.csproj|C:\\Users\\grzes\\source\\repos\\VatApi\\vatapi\\viesapproximatedeseralizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E8BF53-E5AF-46F2-9050-493563738AC1}|VatApi\\VatApi.csproj|solutionrelative:vatapi\\viesapproximatedeseralizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E8BF53-E5AF-46F2-9050-493563738AC1}|VatApi\\VatApi.csproj|C:\\Users\\grzes\\source\\repos\\VatApi\\vatapi\\vatdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E8BF53-E5AF-46F2-9050-493563738AC1}|VatApi\\VatApi.csproj|solutionrelative:vatapi\\vatdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F8A181-16EC-4D42-8280-6DEFE6D265E2}|VatForms\\VatForms.csproj|c:\\users\\grzes\\source\\repos\\vatapi\\vatforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F8A181-16EC-4D42-8280-6DEFE6D265E2}|VatForms\\VatForms.csproj|solutionrelative:vatforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F8A181-16EC-4D42-8280-6DEFE6D265E2}|VatForms\\VatForms.csproj|C:\\Users\\grzes\\source\\repos\\VatApi\\vatforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97F8A181-16EC-4D42-8280-6DEFE6D265E2}|VatForms\\VatForms.csproj|solutionrelative:vatforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViesApproximateDb.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\VatApi\\VatApi\\ViesApproximateDb.cs",
+              "RelativeDocumentMoniker": "VatApi\\ViesApproximateDb.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\VatApi\\VatApi\\ViesApproximateDb.cs",
+              "RelativeToolTip": "VatApi\\ViesApproximateDb.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:12:44.578Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VatDb.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\VatApi\\VatApi\\VatDb.cs",
+              "RelativeDocumentMoniker": "VatApi\\VatDb.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\VatApi\\VatApi\\VatDb.cs",
+              "RelativeToolTip": "VatApi\\VatDb.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:48:51.89Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\VatApi\\VatApi\\VatRepository.cs",
+              "RelativeDocumentMoniker": "VatApi\\VatRepository.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\VatApi\\VatApi\\VatRepository.cs",
+              "RelativeToolTip": "VatApi\\VatRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:21:27.615Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\VatApi\\VatForms\\Form1.cs",
+              "RelativeDocumentMoniker": "VatForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\VatApi\\VatForms\\Form1.cs",
+              "RelativeToolTip": "VatForms\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:52:21.492Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vat.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\VatApi\\VatApi\\Vat.cs",
+              "RelativeDocumentMoniker": "VatApi\\Vat.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\VatApi\\VatApi\\Vat.cs",
+              "RelativeToolTip": "VatApi\\Vat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:38:01.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiVatFetcher.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\VatApi\\VatApi\\ApiVatFetcher.cs",
+              "RelativeDocumentMoniker": "VatApi\\ApiVatFetcher.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\VatApi\\VatApi\\ApiVatFetcher.cs",
+              "RelativeToolTip": "VatApi\\ApiVatFetcher.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:44:47.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\VatApi\\VatApi\\Program.cs",
+              "RelativeDocumentMoniker": "VatApi\\Program.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\VatApi\\VatApi\\Program.cs",
+              "RelativeToolTip": "VatApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:30:14.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViesApproximate.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\VatApi\\VatApi\\ViesApproximate.cs",
+              "RelativeDocumentMoniker": "VatApi\\ViesApproximate.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\VatApi\\VatApi\\ViesApproximate.cs",
+              "RelativeToolTip": "VatApi\\ViesApproximate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:38:32.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViesApproximateDeseralizer.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\VatApi\\VatApi\\ViesApproximateDeseralizer.cs",
+              "RelativeDocumentMoniker": "VatApi\\ViesApproximateDeseralizer.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\VatApi\\VatApi\\ViesApproximateDeseralizer.cs",
+              "RelativeToolTip": "VatApi\\ViesApproximateDeseralizer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:37:34.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\VatApi\\VatForms\\Form1.cs",
+              "RelativeDocumentMoniker": "VatForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\VatApi\\VatForms\\Form1.cs [Projekt]",
+              "RelativeToolTip": "VatForms\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:52:16.699Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
