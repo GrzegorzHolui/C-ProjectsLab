@@ -1,0 +1,14 @@
+C:\Users\grzes\source\repos\Wielowątkowoś\Wielowątkowoś\bin\Debug\net8.0\Wielowątkowoś.exe
+C:\Users\grzes\source\repos\Wielowątkowoś\Wielowątkowoś\bin\Debug\net8.0\Wielowątkowoś.deps.json
+C:\Users\grzes\source\repos\Wielowątkowoś\Wielowątkowoś\bin\Debug\net8.0\Wielowątkowoś.runtimeconfig.json
+C:\Users\grzes\source\repos\Wielowątkowoś\Wielowątkowoś\bin\Debug\net8.0\Wielowątkowoś.dll
+C:\Users\grzes\source\repos\Wielowątkowoś\Wielowątkowoś\bin\Debug\net8.0\Wielowątkowoś.pdb
+C:\Users\grzes\source\repos\Wielowątkowoś\Wielowątkowoś\obj\Debug\net8.0\Wielowątkowoś.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grzes\source\repos\Wielowątkowoś\Wielowątkowoś\obj\Debug\net8.0\Wielowątkowoś.AssemblyInfoInputs.cache
+C:\Users\grzes\source\repos\Wielowątkowoś\Wielowątkowoś\obj\Debug\net8.0\Wielowątkowoś.AssemblyInfo.cs
+C:\Users\grzes\source\repos\Wielowątkowoś\Wielowątkowoś\obj\Debug\net8.0\Wielowątkowoś.csproj.CoreCompileInputs.cache
+C:\Users\grzes\source\repos\Wielowątkowoś\Wielowątkowoś\obj\Debug\net8.0\Wielowątkowoś.dll
+C:\Users\grzes\source\repos\Wielowątkowoś\Wielowątkowoś\obj\Debug\net8.0\refint\Wielowątkowoś.dll
+C:\Users\grzes\source\repos\Wielowątkowoś\Wielowątkowoś\obj\Debug\net8.0\Wielowątkowoś.pdb
+C:\Users\grzes\source\repos\Wielowątkowoś\Wielowątkowoś\obj\Debug\net8.0\Wielowątkowoś.genruntimeconfig.cache
+C:\Users\grzes\source\repos\Wielowątkowoś\Wielowątkowoś\obj\Debug\net8.0\ref\Wielowątkowoś.dll
