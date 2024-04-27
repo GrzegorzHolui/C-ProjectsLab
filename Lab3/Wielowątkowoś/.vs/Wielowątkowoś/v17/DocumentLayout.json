@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\grzes\\source\\repos\\Wielow\u0105tkowo\u015B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41087FAE-16E9-4C3E-8893-0A3DBCEFD2EB}|Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B.csproj|C:\\Users\\grzes\\source\\repos\\Wielow\u0105tkowo\u015B\\wielow\u0105tkowo\u015B\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41087FAE-16E9-4C3E-8893-0A3DBCEFD2EB}|Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B.csproj|solutionrelative:wielow\u0105tkowo\u015B\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41087FAE-16E9-4C3E-8893-0A3DBCEFD2EB}|Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B.csproj|C:\\Users\\grzes\\source\\repos\\Wielow\u0105tkowo\u015B\\wielow\u0105tkowo\u015B\\parrarelmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41087FAE-16E9-4C3E-8893-0A3DBCEFD2EB}|Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B.csproj|solutionrelative:wielow\u0105tkowo\u015B\\parrarelmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{41087FAE-16E9-4C3E-8893-0A3DBCEFD2EB}|Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B.csproj|c:\\users\\grzes\\source\\repos\\wielow\u0105tkowo\u015B\\wielow\u0105tkowo\u015B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41087FAE-16E9-4C3E-8893-0A3DBCEFD2EB}|Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B.csproj|solutionrelative:wielow\u0105tkowo\u015B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41087FAE-16E9-4C3E-8893-0A3DBCEFD2EB}|Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B.csproj|c:\\users\\grzes\\source\\repos\\wielow\u0105tkowo\u015B\\wielow\u0105tkowo\u015B\\parrarelmatrixmultiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41087FAE-16E9-4C3E-8893-0A3DBCEFD2EB}|Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B.csproj|solutionrelative:wielow\u0105tkowo\u015B\\parrarelmatrixmultiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30124511-C325-4A91-AA70-901BBF84DA7B}|..\\probaObrazki\\probaObrazki\\obrazki.csproj|c:\\users\\grzes\\source\\repos\\probaobrazki\\probaobrazki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30124511-C325-4A91-AA70-901BBF84DA7B}|..\\probaObrazki\\probaObrazki\\obrazki.csproj|c:\\users\\grzes\\source\\repos\\probaobrazki\\probaobrazki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30124511-C325-4A91-AA70-901BBF84DA7B}|..\\probaObrazki\\probaObrazki\\probaObrazki.csproj|c:\\users\\grzes\\source\\repos\\probaobrazki\\probaobrazki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30124511-C325-4A91-AA70-901BBF84DA7B}|..\\probaObrazki\\probaObrazki\\obrazki.csproj|c:\\users\\grzes\\source\\repos\\probaobrazki\\probaobrazki\\obrazki.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41087FAE-16E9-4C3E-8893-0A3DBCEFD2EB}|Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B.csproj|C:\\Users\\grzes\\source\\repos\\Wielow\u0105tkowo\u015B\\wielow\u0105tkowo\u015B\\matrixgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41087FAE-16E9-4C3E-8893-0A3DBCEFD2EB}|Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B.csproj|solutionrelative:wielow\u0105tkowo\u015B\\matrixgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41087FAE-16E9-4C3E-8893-0A3DBCEFD2EB}|Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B.csproj|C:\\Users\\grzes\\source\\repos\\Wielow\u0105tkowo\u015B\\wielow\u0105tkowo\u015B\\matrixmultiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41087FAE-16E9-4C3E-8893-0A3DBCEFD2EB}|Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B.csproj|solutionrelative:wielow\u0105tkowo\u015B\\matrixmultiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,48 +38,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B\\Program.cs",
-              "RelativeDocumentMoniker": "Wielow\u0105tkowo\u015B\\Program.cs",
-              "ToolTip": "C:\\Users\\grzes\\source\\repos\\Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B\\Program.cs",
-              "RelativeToolTip": "Wielow\u0105tkowo\u015B\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwAMAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "MatrixGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B\\MatrixGenerator.cs",
+              "RelativeDocumentMoniker": "Wielow\u0105tkowo\u015B\\MatrixGenerator.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B\\MatrixGenerator.cs",
+              "RelativeToolTip": "Wielow\u0105tkowo\u015B\\MatrixGenerator.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBsAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T05:50:13.87Z",
+              "WhenOpened": "2024-04-24T09:44:20.344Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MatrixMultiplication.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B\\MatrixMultiplication.cs",
+              "RelativeDocumentMoniker": "Wielow\u0105tkowo\u015B\\MatrixMultiplication.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B\\MatrixMultiplication.cs",
+              "RelativeToolTip": "Wielow\u0105tkowo\u015B\\MatrixMultiplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T09:38:25.259Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ParrarelMatrix.cs",
-              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B\\ParrarelMatrix.cs",
-              "RelativeDocumentMoniker": "Wielow\u0105tkowo\u015B\\ParrarelMatrix.cs",
-              "ToolTip": "C:\\Users\\grzes\\source\\repos\\Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B\\ParrarelMatrix.cs",
-              "RelativeToolTip": "Wielow\u0105tkowo\u015B\\ParrarelMatrix.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAARAAAA",
+              "Title": "ParrarelMatrixMultiplication.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B\\ParrarelMatrixMultiplication.cs",
+              "RelativeDocumentMoniker": "Wielow\u0105tkowo\u015B\\ParrarelMatrixMultiplication.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B\\ParrarelMatrixMultiplication.cs",
+              "RelativeToolTip": "Wielow\u0105tkowo\u015B\\ParrarelMatrixMultiplication.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T13:49:28.311Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-04-27T13:38:10.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Matrix.cs",
-              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B\\Matrix.cs",
-              "RelativeDocumentMoniker": "Wielow\u0105tkowo\u015B\\Matrix.cs",
-              "ToolTip": "C:\\Users\\grzes\\source\\repos\\Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B\\Matrix.cs",
-              "RelativeToolTip": "Wielow\u0105tkowo\u015B\\Matrix.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B\\Program.cs",
+              "RelativeDocumentMoniker": "Wielow\u0105tkowo\u015B\\Program.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\Wielow\u0105tkowo\u015B\\Wielow\u0105tkowo\u015B\\Program.cs",
+              "RelativeToolTip": "Wielow\u0105tkowo\u015B\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T16:02:58.726Z",
+              "WhenOpened": "2024-04-27T13:37:16.793Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\probaObrazki\\probaObrazki\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\probaObrazki\\probaObrazki\\Form1.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\probaObrazki\\probaObrazki\\Form1.cs",
+              "RelativeToolTip": "..\\probaObrazki\\probaObrazki\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T13:36:59.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "obrazki",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\probaObrazki\\probaObrazki\\obrazki.csproj",
+              "RelativeDocumentMoniker": "..\\probaObrazki\\probaObrazki\\obrazki.csproj",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\probaObrazki\\probaObrazki\\obrazki.csproj",
+              "RelativeToolTip": "..\\probaObrazki\\probaObrazki\\obrazki.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T11:40:17.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\probaObrazki\\probaObrazki\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\probaObrazki\\probaObrazki\\Form1.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\probaObrazki\\probaObrazki\\Form1.cs [Projekt]",
+              "RelativeToolTip": "..\\probaObrazki\\probaObrazki\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T11:39:31.427Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\probaObrazki\\probaObrazki\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\probaObrazki\\probaObrazki\\Form1.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\probaObrazki\\probaObrazki\\Form1.cs",
+              "RelativeToolTip": "..\\probaObrazki\\probaObrazki\\Form1.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAADwv6sAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T11:35:54.929Z"
             }
           ]
         }

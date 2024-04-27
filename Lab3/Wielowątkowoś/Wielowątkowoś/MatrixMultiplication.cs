@@ -2,21 +2,22 @@
 {
     public class MatrixMultiplication
     {
-        public static double[][] result;
-        public static double[][] matrix1;
-        public static double[][] matrix2;
+        public static int[][] result;
+        public static int[][] matrix1;
+        public static int[][] matrix2;
 
-        public MatrixMultiplication(double[][] a, double[][] b)
+        public MatrixMultiplication(int[][] a, int[][] b)
         {
             matrix1 = a;
             matrix2 = b;
         }
-        public double[][] multiply(int amountOfThreads)
+
+        public int[][] multiply(int amountOfThreads)
         {
-            //printTheMatrix(matrix1);
+           /* printTheMatrix(matrix1);
             Console.WriteLine();
-            //printTheMatrix(matrix2);
-            Console.WriteLine();
+            printTheMatrix(matrix2);
+            Console.WriteLine();*/
 
             result = initTheMatrix(matrix1.Length);
 
@@ -56,11 +57,9 @@
             }
             watch.Stop();
 
-            
-
-            //printTheMatrix(result);
 
             Console.WriteLine($"threads ended in {watch.ElapsedMilliseconds} ms.");
+            /*Console.WriteLine($"{watch.ElapsedMilliseconds}");*/
 
             return result;
 
@@ -70,26 +69,22 @@
         {
             for (int columnNumber = givenStartThreadColumnNumber; columnNumber <= givenEndThreadColumnNumber; columnNumber++)
             {
-                /*lock (matrix2)
-                {*/
-                    for (int rowNumber = 0; rowNumber < matrix2.Length; rowNumber++)
-                    {
-                        double[] allRow = takeTheAllRowFromGivenMatrix(matrix1, columnNumber);
-                        double[] allColumn = takeTheAllColumnFromGivenMatrix(matrix2, rowNumber);
-                        double score = countTheGivenRowAndColumn(allRow, allColumn);
-                        /*lock (result)
-                        {*/
-                            result[columnNumber][rowNumber] = score;
-                        /*}*/
-                    /*}*/
+
+                for (int rowNumber = 0; rowNumber < matrix2.Length; rowNumber++)
+                {
+                    int[] allRow = takeTheAllRowFromGivenMatrix(matrix1, columnNumber);
+                    int[] allColumn = takeTheAllColumnFromGivenMatrix(matrix2, rowNumber);
+                    int score = countTheGivenRowAndColumn(allRow, allColumn);
+
+                    result[columnNumber][rowNumber] = score;
                 }
             }
         }
 
 
-        public static double countTheGivenRowAndColumn(double[] row, double[] column)
+        public static int countTheGivenRowAndColumn(int[] row, int[] column)
         {
-            double sum = 0.0;
+            int sum = 0;
 
             for (int i = 0; i < row.Length; i++)
             {
@@ -99,47 +94,59 @@
             return sum;
         }
 
-        private static double[] takeTheAllRowFromGivenMatrix(double[][] matrix, int column)
+        private static int[] takeTheAllRowFromGivenMatrix(int[][] matrix, int column)
         {
-            /*lock (matrix)
-            {*/
-                double[] result = new double[matrix[column].Length];
-                for (int i = 0; i < matrix[column].Length; i++)
-                {
-                    result[i] = matrix[column][i];
-                }
-                return result;
-            /*}*/
+
+            int[] result = new int[matrix[column].Length];
+            for (int i = 0; i < matrix[column].Length; i++)
+            {
+                result[i] = matrix[column][i];
+            }
+            return result;
+
         }
 
-        private static double[] takeTheAllColumnFromGivenMatrix(double[][] matrix, int row)
+        private static int[] takeTheAllColumnFromGivenMatrix(int[][] matrix, int row)
         {
-            /*lock (matrix)
-            {*/
-                double[] columnElements = new double[matrix[row].Length];
 
-                for (int i = 0; i < matrix[row].Length; i++)
-                {
-                    columnElements[i] = matrix[i][row];
-                }
+            int[] columnElements = new int[matrix[row].Length];
 
-                return columnElements;
-            /*}*/
+            for (int i = 0; i < matrix[row].Length; i++)
+            {
+                columnElements[i] = matrix[i][row];
+            }
+            return columnElements;
         }
 
-        private static double[][] initTheMatrix(int length)
+        private static int[][] initTheMatrix(int length)
         {
-            double[][] result = new double[length][];
+            int[][] result = new int[length][];
             for (int i = 0; i < length; i++)
             {
-                result[i] = new double[length];
+                result[i] = new int[length];
                 for (int j = 0; j < length; j++)
                 {
-                    result[i][j] = 0.0;
+                    result[i][j] = 0;
                 }
             }
             return result;
         }
+
+        static void printTheMatrix(int[][] matrix)
+        {
+            int rows = matrix.Length;
+            int cols = matrix[0].Length;
+
+            for (int i = 0; i < rows; i++)
+            {
+                for (int j = 0; j < cols; j++)
+                {
+                    Console.Write(matrix[i][j] + "\t");
+                }
+                Console.WriteLine();
+            }
+        }
+
 
     }
 }
